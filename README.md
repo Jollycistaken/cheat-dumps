@@ -1,2 +1,2 @@
 # cheat-dumps
-A bunch of cheats that I have for analysis purposes
+Cheat dumps for analysis purposes
